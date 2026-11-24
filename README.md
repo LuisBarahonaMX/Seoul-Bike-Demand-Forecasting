@@ -7,7 +7,15 @@
 **Programming Language:** Python  
 **Environment:** Google Colab | Jupyter Notebook  
 **Author:** Data Engineer Luis Barahona
+## Holt-Winters Forecasting — Visual Reference
 
+![Holt-Winters Method — Minitab](https://support.minitab.com/es-mx/minitab/media/generated-content/images/winters_method_utility_usage.PNG)
+
+*Figure: Holt-Winters seasonal forecasting example. Source: Minitab.*
+
+**Reference:** [Minitab — Interpreting Key Results for Winters' Method](https://support.minitab.com/es-mx/minitab/help-and-how-to/statistical-modeling/time-series/how-to/winters-method/interpret-the-results/key-results/)
+
+**Image credit:** © Minitab, LLC. All rights reserved.
 ---
 
 ## 1. Project Overview
